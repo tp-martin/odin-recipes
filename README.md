@@ -1,2 +1,3 @@
 # odin-recipes
 Prior to completion: I have done this project before. However, I am doing it again to refresh myself and build a stronger foundation. I hope to have a good grasp on the basics of HTML after completing this lesson again. 
+Post completion: I am now back to where I was before I lost my way. I feel much more confident about these first lessons and am excited to move on to CSS. Good work, me. 

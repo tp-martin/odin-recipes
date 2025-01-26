@@ -1,0 +1,21 @@
+* {
+    font-family: "Courier New", sans-serif;
+}
+
+h1 {
+    color: #36492e;
+    background-color: #996848;
+    text-align: center;
+}
+
+#menu {
+    background-color: #e8e4da;
+    padding: 20px;
+}
+
+a:link {
+    color: #840016;
+}
+a:visited {
+    color: #54392d;
+}

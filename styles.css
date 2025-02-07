@@ -8,7 +8,7 @@ h1 {
     text-align: center;
 }
 
-#menu {
+.menu {
     background-color: #e8e4da;
     padding: 20px;
     font-size: larger;
@@ -16,6 +16,8 @@ h1 {
 }
 ul {
     background-color: #996848;
+    padding: 12px;
+    margin-left: 20px;
 }
 ul li {
     color: #840016;
